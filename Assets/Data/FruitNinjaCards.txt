@@ -1,0 +1,29 @@
+{
+	"Cards": [
+		{
+			"CardName" : "Pineapple of Vengeance",
+			"TimeCost" : "2T",
+			"AlertCost" : "4A",
+			"CardClass" : "Fruit Ninja",
+			"CardType" : "Instant",
+			"CardSubtype" : "Citrus",
+			"TargetingType" : "Ranged",
+			"ProgressGenerated" : "1P",
+			"DamageGenerated" : "4D",
+			"CardDescription" : "<i>Look out below!</i>",
+			"SpriteIndex": "1"
+		},	{
+			"CardName" : "Newton's Regret",
+			"TimeCost" : "0T",
+			"AlertCost" : "2A",
+			"CardClass" : "Fruit Ninja",
+			"CardType" : "Instant",
+			"CardSubtype" : "Red Delicious",
+			"TargetingType" : "Ranged",
+			"ProgressGenerated" : "2P",
+			"DamageGenerated" : "0D",
+			"CardDescription" : "<i>Pride cometh before the fall...</i>",
+			"SpriteIndex": "0"
+		}
+	]
+}
